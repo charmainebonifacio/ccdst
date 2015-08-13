@@ -1,8 +1,9 @@
-# About This repository
-This repository is the working project of the Canadian Climate Scraping Tool (CCDST). Any final changes will be reflected on the official [CAGEO repository](https://github.com/charmainebonifacio/cageo).
+# The Canadian Climate Data Scraping Tool (CCDST)
+[Canadian Climate Data Scraping Tool](http://dx.doi.org/10.1016/j.cageo.2014.10.010) can be found on the [CAGEO repository](https://github.com/charmainebonifacio/cageo). This repository is the working project of the Canadian Climate Scraping Tool (CCDST). Any final changes will be reflected on the official [CAGEO repository](https://github.com/charmainebonifacio/cageo).
 
-## The Canadian Climate Data Scraping Tool (CCDST)
-[Canadian Climate Data Scraping Tool](http://dx.doi.org/10.1016/j.cageo.2014.10.010) can be found on the [CAGEO repository](https://github.com/charmainebonifacio/cageo).
+## Tool Interface
+
+![GUI](https://farm1.staticflickr.com/259/20311996608_c2473be3ea_z.jpg)
 
 ## License
 The Canadian Climate Scraping Tool is licensed under a [GNU General Public License v2.0](http://choosealicense.com/licenses/gpl-2.0//)
