@@ -3,12 +3,12 @@
 
 ## Tool Interface
 
-![GUI](https://farm1.staticflickr.com/259/20311996608_c2473be3ea_z.jpg)
+![GUI](https://c1.staticflickr.com/1/484/31446130953_1d44202af9_z.jpg)
 
 ## License
 The Canadian Climate Scraping Tool is licensed under a [GNU General Public License v2.0](http://choosealicense.com/licenses/gpl-2.0//)
 
-Copyright (C) 2013 Charmaine Michelle T. Bonifacio
+Copyright (C) 2016 Charmaine Michelle T. Bonifacio
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
